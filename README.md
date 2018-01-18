@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+If you are first clone, please enter the below programing in the terminal.
 
-Things you may want to cover:
+ * git clone https://github.com/oklalala/git_exercise2.git
 
-* Ruby version
+ * cd PATH/git_exercise2
 
-* System dependencies
+ * bundle install
 
-* Configuration
+ * rails db:migrate
 
-* Database creation
+ * rails db:seed
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ * and so on.... 
